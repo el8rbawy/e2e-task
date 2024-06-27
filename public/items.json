@@ -1,0 +1,26 @@
+[
+   {
+      "id": 1,
+      "name": "iPhone 15",
+      "description": "Apple iPhone 15 - 6.1-inch display, 64GB storage",
+      "price": 1030
+   },
+   {
+      "id": 2,
+      "name": "Samsung Galaxy S21",
+      "description": "Samsung Galaxy S21 - 6.2-inch display, 128GB storage",
+      "price": 9932
+   },
+   {
+      "id": 3,
+      "name": "MacBook Pro 13",
+      "description": "Apple MacBook Pro 13-inch - M1 Chip, 256GB SSD",
+      "price": 29392
+   },
+   {
+      "id": 4,
+      "name": "Xiaomi Mi Band 6",
+      "description": "Xiaomi Mi Band 6 - Smart Band with AMOLED display",
+      "price": 150
+   }
+]
